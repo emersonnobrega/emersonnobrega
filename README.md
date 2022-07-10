@@ -1,32 +1,19 @@
-### Hi there 👋
+### Oi eu sou ~Goku~ Emerson!
 
-### I'm Emerson! I work as Technical Support, but I'm looking for my first opportunity as a Developer
-
+### Formado em sistemas para internet, trabalho como Suporte Técnico a 10 Anos e pretendo migrar para área de Ciências de Dados
 __________________________________________________________________________________________________________________________
-
-### GitHub Stats and Most Used Languages
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=emersonnobrega&hide=issues&theme=dracula&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonnobrega&layout=compact&theme=dracula&langs_count=10)](https://github.com/emersonnobrega/github-readme-stats)
 
-
-__________________________________________________________________________________________________________________________
-### Tech Skills
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
 __________________________________________________________________________________________________________________________
 
-⚡ Fun fact:
-- :computer: I am passionate about technology and I intend to be a front-end developer someday
-- :guitar: I listen to every musical style, but my favorite is rock n roll
-- :video_game: I've finished the legend of zelda and ocarina of time more than 10 times
-- :sunglasses: my first pokémon would be bulbasaur
-- :heart_eyes_cat: I am the father of two cats, Hércules and Ágata
+⚡ Curiosidades:
+- :computer: Sou Apaixonado por Tecnologia desde criança e atualmente querendo entrar para área de Dados
+- :guitar: Gosto de vários estilos musicais, mas o meu preferido é o Rock
+- :video_game: Já zerei o jogo the legend of zelda and ocarina of time várias vezes
+- :sunglasses: Meu primeiro Pokemon seria Bulbasaur
+- :heart_eyes_cat: Sou pai de 2 gatos, Hércules and Ágata
 
 <!--
 **emersonnobrega/emersonnobrega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
