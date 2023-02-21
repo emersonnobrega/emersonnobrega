@@ -1,11 +1,21 @@
 ### Oi eu sou ~Goku~ Emerson!
 
 🥅 Trabalho
-* Tranalho como suporte Técnico a 10 anos
+* Trabalho como suporte Técnico a 10 anos
 
 📚 Educação
 * Formado em Sistemas para Internet
 * Cursando Pós Graduação em Ciências de Dados
+
+🚀 Habilidades
+* Python
+* PowerBI
+* SQL
+* HTML
+* CSS
+* JavaScript
+* Git
+* 
 __________________________________________________________________________________________________________________________
 
 ### :trophy: Statatus
