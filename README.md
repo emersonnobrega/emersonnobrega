@@ -5,17 +5,13 @@
 
 📚 Educação
 * Formado em Sistemas para Internet
-* Cursando Pós Graduação em Ciências de Dados
+* Pós Graduado em Ciências de Dados
 
 🚀 Habilidades
 * Python
 * PowerBI
 * SQL
-* HTML
-* CSS
-* JavaScript
 * Git
-* 
 __________________________________________________________________________________________________________________________
 
 ### :trophy: Statatus
