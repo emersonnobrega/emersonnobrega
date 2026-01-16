@@ -1,7 +1,8 @@
-### Oi eu sou ~Goku~ Emerson!
+### Oi eu sou Emerson!
 
 🥅 Trabalho
-* Trabalho como suporte Técnico a 10 anos
+* Experiência em suporte Técnico a mais de 10 anos
+* Atualmente trabalhando como Analista de Gestão de Crise
 
 📚 Educação
 * Formado em Sistemas para Internet
